@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30fa176c-1d55-4026-8de6-fca3e8fa1efe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV files/InvoiceHeader.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV files/InvoiceHeader.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV files/InvoiceLine.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV files/InvoiceLine.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SalesInvoiceGenerator/src/com/udacity/InvoiceFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/SalesInvoiceGenerator/src/com/udacity/InvoiceFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame.class" afterDir="false" />
-    </list>
+    <list default="true" id="30fa176c-1d55-4026-8de6-fca3e8fa1efe" name="Changes" comment="Resubmit commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,18 +21,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/QaiatY/Desktop/FWD-First Project-SalesInvoiceGenerator&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/QaiatY/Desktop/FWD-First Project-SalesInvoiceGenerator-resubmit"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;SVG&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "SVG"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659966302330</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resubmit commit">
+      <created>1661347391128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661347391128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resubmit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resubmit commit" />
   </component>
 </project>
