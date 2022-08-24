@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30fa176c-1d55-4026-8de6-fca3e8fa1efe" name="Changes" comment="" />
+    <list default="true" id="30fa176c-1d55-4026-8de6-fca3e8fa1efe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV files/InvoiceHeader.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV files/InvoiceHeader.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV files/InvoiceLine.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV files/InvoiceLine.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SalesInvoiceGenerator/src/com/udacity/InvoiceFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/SalesInvoiceGenerator/src/com/udacity/InvoiceFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SalesInvoiceGenerator_FWD-main/com/udacity/InvoiceFrame.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/QaiatY/Desktop/SalesInvoiceGenerator_FWD-main&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/QaiatY/Desktop/FWD-First Project-SalesInvoiceGenerator&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -40,5 +74,16 @@
       <updated>1659966302330</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
